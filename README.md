@@ -5,7 +5,7 @@
 
 **That’s why we developed Blinky-Lite<sup>TM</sup>**
 
-# Blinky-Lite<sup>TM</sup> Features
+# Features
 - ## Mobility
   Most other control platforms sit behind a firewall and remote access is an afterthought Not with **Blinky-Lite<sup>TM</sup>**. Secure remote access was the paramount requirement from the start. All **Blinky-Lite<sup>TM</sup>** applications are web apps that can be securely accessed from anywhere in the world. Web apps require no installation and the user is always guaranteed to get the latest version. 
 - ## Security
