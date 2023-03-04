@@ -6,7 +6,7 @@ url: https://blinky-lite.github.io
 logo: "/assets/images/project-logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 color_scheme: blinky
-footer_content: "Copyright &copy; 2009-2023 David McGinnis. Distributed by an <a href=\"https://github.com/Blinky-Lite/blinky-lite.github.io/tree/main/LICENSE\">MIT license.</a>"
+footer_content: "Copyright &copy; 2020-2023 BL Monitor & Control AB. Distributed by an <a href=\"https://github.com/Blinky-Lite/blinky-lite.github.io/tree/main/LICENSE\">MIT license.</a>"
 
 
 aux_links:
