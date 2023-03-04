@@ -1,10 +1,10 @@
 ---
-title: Blinky-Lite advantages
+title: Advantages
 layout: default
 parent: Introduction
 nav_order: 1
 ---
-# Blinky-Lite<sup>TM</sup> advantages
+# Blinky-Lite<sup>TM</sup> Advantages
 - ## Mobility
   Most other control platforms sit behind a firewall and remote access is an afterthought Not with **Blinky-Lite<sup>TM</sup>**. Secure remote access was the paramount requirement from the start. All **Blinky-Lite<sup>TM</sup>** applications are web apps that can be securely accessed from anywhere in the world. Web apps require no installation and the user is always guaranteed to get the latest version. 
 - ## Security
