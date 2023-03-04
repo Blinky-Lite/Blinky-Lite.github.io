@@ -32,5 +32,3 @@
   - User customized app launcher
   - User customized device viewers
   - Two factor authentication
-
-![](assets/images/architecture.jpg)
