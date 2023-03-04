@@ -10,5 +10,3 @@ has_children: true
 **Blinky-Lite<sup>TM</sup>** was developed at the MaxIV Synchrotron Light Source and the European Spallation Source both located in Lund, Sweden. In the world of complex and costly particle accelerators, <span style="color:#fcc200">***a strong 24/7 maintenance mindset is a must***</span>. It is essential to always understand the state of a machine remotely and to be able to securely troubleshoot it efficiently from anywhere in the world at any time.  
 
 <span style="color:#fcc200">**That’s why we developed Blinky-Lite<sup>TM</sup>**</span>
-
-

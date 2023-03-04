@@ -1,5 +1,5 @@
 ---
-title: Advantages
+title: Features
 layout: default
 parent: Introduction
 nav_order: 1
