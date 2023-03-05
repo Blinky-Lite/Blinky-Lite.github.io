@@ -6,13 +6,13 @@ nav_order: 1
 ---
 # Blinky-Lite<sup>TM</sup> Features
 - ## Mobility
-  Most other control platforms sit behind a firewall and remote access is an afterthought Not with **Blinky-Lite<sup>TM</sup>**. Secure remote access was the paramount requirement from the start. All **Blinky-Lite<sup>TM</sup>** applications are web apps that can be securely accessed from anywhere in the world. Web apps require no installation and the user is always guaranteed to get the latest version. 
+  Most other control platforms sit behind a firewall and remote access is an afterthought. Not with **Blinky-Lite<sup>TM</sup>**. Secure remote access was the paramount requirement from the start. All **Blinky-Lite<sup>TM</sup>** applications are web apps that can be securely accessed from anywhere in the world. Web apps require no installation and you are always guaranteed to get the latest version. 
 - ## Security
-  **Blinky-Lite<sup>TM</sup>** connections are always initiated from within the user's facility,not from the outside, providing secure information flow from you to the machine/sensor and back. All **Blinky-Lite<sup>TM</sup>** mobile apps require two factor authentication, ensuring that only the right people have access.
+  **Blinky-Lite<sup>TM</sup>** connections are always initiated from within your facility, not from the outside, providing secure information flow from you to the machine/sensor and back. All **Blinky-Lite<sup>TM</sup>** mobile apps require two factor authentication, ensuring that only the right people have access.
 - ## Flexibility
   **Blinky-Lite<sup>TM</sup>** can be added independently or on top of any existing control system
 - ## Open source
-  Every single line of the **Blinky-Lite<sup>TM</sup>** codebase is version-controlled and open allowing  **Blinky-Lite<sup>TM</sup>** to grow with the user's facility.
+  Every single line of the **Blinky-Lite<sup>TM</sup>** codebase is version-controlled and open allowing  **Blinky-Lite<sup>TM</sup>** to grow with you.
     - No license fees
     - No proprietary software  
 - ## Services
