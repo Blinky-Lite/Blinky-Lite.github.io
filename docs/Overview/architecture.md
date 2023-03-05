@@ -59,7 +59,9 @@ The tray message is then published to the Application Box MQTT broker.  Since th
 
 The message tray can also subscribe to other message tray topics or messages sent from the Application Server. These messages can the be used to alter the state of the tray or device the tray is connected to. As shown in Figure 1, more than one device can be connected to a single tray. Thus the tray can function as a micro-control system in a truly Edge computing manner.
 
-Each message tray runs as a separate Node-RED flow. Usually there is a single tray flow running on a single Node-RED process running on a micorcomputer such as a Rasperry Pi.
+Each message tray runs as a separate Node-RED flow. Usually there is a single tray flow running on a single Node-RED process running on a microcomputer such as a Raspberry Pi. However, it is also possible to run multiple tray flows on a single Node-RED instance. Example trays are discussed in [Need Ref!]
+
+## Cube Controllers
 
 ----
 [^1]: MongoDB is not open-source software so the user must provide their own instance of a MongoDB database server.
