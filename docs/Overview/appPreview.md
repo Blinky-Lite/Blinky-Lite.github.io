@@ -1,7 +1,7 @@
 ---
-title: App Overview
+title: App Preview
 layout: default
-parent: Introduction
+parent: Overview
 nav_order: 3
 ---
 # Blinky-Lite<sup>TM</sup> App Overview

@@ -1,7 +1,7 @@
 ---
 title: Features
 layout: default
-parent: Introduction
+parent: Overview
 nav_order: 1
 ---
 # Blinky-Lite<sup>TM</sup> Features
